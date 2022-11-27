@@ -1,3 +1,5 @@
+<head>
+<style>
 :root {
     --positive: #000;
 
@@ -218,3 +220,5 @@ section > .foreground:hover {
         font-size: 0.8em;
     }
 }
+</style>
+</head>
